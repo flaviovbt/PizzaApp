@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "146494465934",
+    "firebase_url": "https://si7001s2022-58d23-default-rtdb.firebaseio.com",
+    "project_id": "si7001s2022-58d23",
+    "storage_bucket": "si7001s2022-58d23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146494465934:android:4a59ab9f6f79650e3d26df",
+        "android_client_info": {
+          "package_name": "m241689.ft.unicamp.br"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146494465934-ghoafgkck5iq22eqojt2f3iitasbda3r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCI9r2zQkNEo5nLITlQJipEPSPac4_-eW0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146494465934-ghoafgkck5iq22eqojt2f3iitasbda3r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
